@@ -1,1 +1,1 @@
-# javascript
+# miscellaneous javascript code
